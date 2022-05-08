@@ -1,67 +1,67 @@
 # FCSC 2022
 
-| **Categorie**  | **Nom**                             | **Difficultée** | **Points** | **Résolutions** | **Writeup** |
-|----------------|-------------------------------------|-----------------|------------|-----------------|-------------|
-| Hardware       | Qui est-ce ?                        | Medium          | 178        | 169             |             |
-| Hardware       | I2CyouToo                           | Easy            | 243        | 122             |             |
-| Hardware       | Daddy Morse                         | Easy            | 258        | 113             |             |
-| Hardware       | Mommy Morse                         | Medium          | 372        | 54              |             |
-| Hardware       | X-Factor 2/2                        | Hard            | 490        | 5               |             |
-| Hardware       | Smartboot 1/2                       | Hard            | 493        | 4               |             |
-| Hardware       | Objets connectés                    | Hard            | 500        | 1               |             |
-| Forensics      | C-3PO                               | Easy            | 102        | 282             |             |
-| Forensics      | Échec OP 1/3                        | Easy            | 128        | 223             |             |
-| Forensics      | Échec OP 2/3                        | Easy            | 161        | 184             |             |
-| Forensics      | À l'ancienne                        | Easy            | 280        | 100             |             |
-| Forensics      | Échec OP 3/3                        | Medium          | 338        | 70              |             |
-| Forensics      | R2-D2                               | Medium          | 474        | 11              |             |
-| Forensics      | Antarctic Vault 1/2                 | Medium          | 490        | 5               |             |
-| Forensics      | R5-D4                               | Hard            | 498        | 2               |             |
-| Forensics      | Antarctic Vault 2/2                 | Hard            | 500        | 0               |             |
-| Reverse        | Souk                                | Easy            | 346        | 66              |             |
-| Reverse        | Licorne                             | Medium          | 454        | 19              |             |
-| Reverse        | Iconic Licence                      | Easy            | 467        | 14              |             |
-| Reverse        | Zigoto                              | Medium          | 469        | 13              |             |
-| Reverse        | Hyper Packer                        | Medium          | 479        | 9               |             |
-| Reverse        | EXTerminated                        | Medium          | 479        | 9               |             |
-| Reverse        | Smartboot 2/2                       | Hard            | 482        | 8               |             |
-| Reverse        | Diplodocus                          | Hard            | 485        | 7               |             |
-| Reverse        | Hexagonal                           | Medium          | 487        | 6               |             |
-| Reverse        | More Hello                          | Medium          | 498        | 2               |             |
-| Reverse        | Perfect Cell                        | Hard            | 498        | 2               |             |
-| Crypto         | Shuffled                            | Easy            | 100        | 443             |             |
-| Crypto         | My Tailor is Rich                   | Easy            | 254        | 115             |             |
-| Crypto         | Hash-ish                            | Medium          | 356        | 61              |             |
-| Crypto         | T-Rex                               | Hard            | 365        | 57              |             |
-| Crypto         | Gaston La Paffe                     | Medium          | 442        | 24              |             |
-| Crypto         | Surface                             | Medium          | 482        | 8               |             |
-| Crypto         | Khal Hash                           | Hard            | 485        | 7               |             |
-| Crypto/Reverse | Share It                            | Medium          | 487        | 6               |             |
-| Crypto         | IZNOGOOD                            | Hard            | 487        | 6               |             |
-| Crypto         | Millenium                           | Hard            | 498        | 2               |             |
-| Pwn            | microroptor                         | Easy            | 330        | 74              |             |
-| Pwn            | XORaaS                              | Easy            | 359        | 60              |             |
-| Pwn            | Palindrome                          | Medium          | 432        | 28              |             |
-| Pwn            | httpd                               | Hard            | 482        | 8               |             |
-| Pwn            | Deflation                           | Medium          | 490        | 5               |             |
-| Pwn            | RPG                                 | Medium          | 493        | 4               |             |
-| Pwn            | formatage                           | Hard            | 498        | 2               |             |
-| Side Channel   | Never Skip Class Nor Multiplication | Easy            | 344        | 67              |             |
-| Side Channel   | Never Skip Class Nor Squaring       | Medium          | 372        | 54              |             |
-| Side Channel   | Myster Mask                         | Medium          | 487        | 6               |             |
-| Side Channel   | (Not So) Secure AES                 | Hard            | 493        | 4               |             |
-| Side Channel   | Secure Green Server                 | Medium          | 495        | 3               |             |
-| Web            | Chatpristi 1/2                      | Easy            | 100        | 410             |             |
-| Web            | Chatpristi 2/2                      | Medium          | 100        | 414             |             |
-| Web            | Gare au gorille                     | Easy            | 103        | 279             |             |
-| Web            | Login Portal                        | Easy            | 248        | 119             |             |
-| Web            | Avatar Generator                    | Hard            | 444        | 23              |             |
-| Web            | MC Players                          | Hard            | 444        | 23              |             |
-| Web            | Cloud Password Manager              | Medium          | 444        | 23              |             |
-| Misc           | Guess Me                            | Easy            | 101        | 296             |             |
-| Misc           | Cupide                              | Easy            | 139        | 208             |             |
-| Misc           | X-Factor 1/2                        | Easy            | 174        | 172             |             |
-| Misc           | Color Plant 1/2                     | Easy            | 229        | 131             |             |
-| Misc           | Color Plant 2/2                     | Medium          | 269        | 106             |             |
-| Misc/Discord   | Meme Lord                           | Easy            | 302        | 88              |             |
-| Misc           | Guess Me Too                        | Medium          | 381        | 50              |             |
+| **Categorie**                                         | **Nom**                             | **Difficultée** | **Points** | **Résolutions** | **Writeup**                                                                                                  |
+| ----------------------------------------------------- | ----------------------------------- | --------------- | ---------- | --------------- | ------------------------------------------------------------------------------------------------------------ |
+| Hardware                                              | Qui est-ce ?                        | Medium          | 178        | 169             | [link](https://github.com/ribt/writeups/blob/master/2022/FCSC/hardware/qui_est_ce/README.md)                 |
+| [Hardware](Hardware-I2CyouToo-Easy)                   | I2CyouToo                           | Easy            | 243        | 122             | [link](https://github.com/ribt/writeups/blob/master/2022/FCSC/hardware/i2c/README.md)                        |
+| [Hardware](Hardware-Daddy_Morse-Easy)                 | Daddy Morse                         | Easy            | 258        | 113             | [link](https://github.com/ribt/writeups/blob/master/2022/FCSC/hardware/daddy_morse/README.md)                |
+| [Hardware](Hardware-Mommy_Morse-Medium)               | Mommy Morse                         | Medium          | 372        | 54              | [link](https://notes.alxczl.fr/s/esGlvSUm-#)                                                                 |
+| [Hardware](Misc-X_Factor-Easy)                        | X-Factor 2/2                        | Hard            | 490        | 5               | [link](https://bluesheet.fr/article/4)                                                                       |
+| [Hardware](Hardware-Smartboot-Hard)                   | Smartboot 1/2                       | Hard            | 493        | 4               | [link](https://pt0m.github.io/write-ups/write-up-smartboot/writeup)                                          |
+| [Hardware](Hardware-Objects_Connectés-Hard)           | Objets connectés                    | Hard            | 500        | 1               |                                                                                                              |
+| Forensics                                             | C-3PO                               | Easy            | 102        | 282             | [link](https://github.com/ribt/writeups/blob/master/2022/FCSC/forensics/c3po/README.md)                      |
+| Forensics                                             | Échec OP 1/3                        | Easy            | 128        | 223             | [link](https://github.com/ribt/writeups/blob/master/2022/FCSC/forensics/echec_op/README.md)                  |
+| Forensics                                             | Échec OP 2/3                        | Easy            | 161        | 184             | [link](https://github.com/ribt/writeups/blob/master/2022/FCSC/forensics/echec_op/README.md)                  |
+| Forensics                                             | À l'ancienne                        | Easy            | 280        | 100             |                                                                                                              |
+| Forensics                                             | Échec OP 3/3                        | Medium          | 338        | 70              |                                                                                                              |
+| Forensics                                             | R2-D2                               | Medium          | 474        | 11              | [link](https://github.com/W0rty/WU-FCSC2022/tree/main/R2D2)                                                  |
+| Forensics                                             | Antarctic Vault 1/2                 | Medium          | 490        | 5               | [link](https://github.com/W0rty/WU-FCSC2022/tree/main/AntarticVault)                                         |
+| Forensics                                             | R5-D4                               | Hard            | 498        | 2               |                                                                                                              |
+| Forensics                                             | Antarctic Vault 2/2                 | Hard            | 500        | 0               |                                                                                                              |
+| [Reverse](Rev-Souk-Easy)                              | Souk                                | Easy            | 346        | 66              |                                                                                                              |
+| [Reverse](Rev-Licorne-Medium)                         | Licorne                             | Medium          | 454        | 19              | [link](https://github.com/MathVerg/WriteUp/tree/master/FCSC2022/Licorne)                                     |
+| [Reverse](Rev-Iconic_Licence-Easy)                    | Iconic Licence                      | Easy            | 467        | 14              |                                                                                                              |
+| [Reverse](Rev-Zigoto-Medium)                          | Zigoto                              | Medium          | 469        | 13              | [link]()                                                                                                     |
+| [Reverse](Rev-Hyper_Packer-Medium)                    | Hyper Packer                        | Medium          | 479        | 9               | [link](https://sideway.re/FCSC-Quals-HyperPacker/)                                                           |
+| [Reverse](Rev-EXTerminated-Medium)                    | EXTerminated                        | Medium          | 479        | 9               |                                                                                                              |
+| [Reverse](Rev-Smartboot-Hard)                         | Smartboot 2/2                       | Hard            | 482        | 8               |                                                                                                              |
+| [Reverse](Rev-Diplodocus-Hard)                        | Diplodocus                          | Hard            | 485        | 7               |                                                                                                              |
+| [Reverse](Rev-Hexagonal-Medium)                       | Hexagonal                           | Medium          | 487        | 6               |                                                                                                              |
+| [Reverse](Rev-More_Hello-Hard)                        | More Hello                          | Medium          | 498        | 2               | [link](https://redoste.xyz/2022/05/08/fr-write-up-fcsc-2022-more-hello/)                                     |
+| [Reverse](Rev-Perfect_Cell-Hard)                      | Perfect Cell                        | Hard            | 498        | 2               | [link](https://sideway.re/FCSC-Quals-Perfect-Cell/)                                                          |
+| [Crypto](Crypto-Shuffled-Easy)                        | Shuffled                            | Easy            | 100        | 443             | [link](https://www.xorminds.com/writeup/FCSC2022/shuffled.html)                                              |
+| [Crypto](Crypto-My_Taylor_is_Rich-Easy)               | My Tailor is Rich                   | Easy            | 254        | 115             | [link](https://www.xorminds.com/writeup/FCSC2022/tailor.html)                                                |
+| Crypto                                                | Hash-ish                            | Medium          | 356        | 61              | [link](https://www.xorminds.com/writeup/FCSC2022/Hash-ish.html)                                              |
+| [Crypto](Crypto-T_Rex-Hard)                           | T-Rex                               | Hard            | 365        | 57              | [link](https://github.com/MiniGlome/FCSC-2022-Writeups/blob/main/MiniGlome_TRex-Writeup.md)                  |
+| [Crypto](Crypto-Gasto-Medium)                         | Gaston La Paffe                     | Medium          | 442        | 24              |                                                                                                              |
+| [Crypto](Crypto-Surface-Medium)                       | Surface                             | Medium          | 482        | 8               | [link](https://github.com/Jakobus0/FCSC-2022/blob/main/FCSC_2022___Surface.pdf)                              |
+| Crypto                                                | Khal Hash                           | Hard            | 485        | 7               |                                                                                                              |
+| [Crypto/Reverse](Crypto-Share_it-Medium)              | Share It                            | Medium          | 487        | 6               |                                                                                                              |
+| [Crypto](Crypto-IZNOGOOD-Hard)                        | IZNOGOOD                            | Hard            | 487        | 6               | [link](https://github.com/remyoudompheng/remyoudompheng.github.io/blob/main/ctf/fcsc2022/crypto-iznogood.md) |
+| Crypto                                                | Millenium                           | Hard            | 498        | 2               |                                                                                                              |
+| [Pwn](Pwn-Microroptor-Easy)                           | microroptor                         | Easy            | 330        | 74              | [link](https://github.com/giovanni-lb/CTF/tree/main/FCSC-2022/Microroptor-Pwn)                               |
+| [Pwn](Pwn-XORaaS-Easy)                                | XORaaS                              | Easy            | 359        | 60              |                                                                                                              |
+| [Pwn](Pwn-Palindrome-Medium)                          | Palindrome                          | Medium          | 432        | 28              | [link](https://hackintn.telecomnancy.net/writeups/palindrome/)                                               |
+| [Pwn](Pwn-httpd-Hard)                                 | httpd                               | Hard            | 482        | 8               | [link](https://github.com/voydstack/FCSC2022/blob/main/pwn/httpd/README.md)                                  |
+| [Pwn](Pwn-Deflation-Medium)                           | Deflation                           | Medium          | 490        | 5               | [link](https://github.com/nobodyisnobody/write-ups/tree/main/FCSC.2022/pwn/Deflation)                        |
+| [Pwn](Pwn-RPG-Medium)                                 | RPG                                 | Medium          | 493        | 4               | [link](https://hackintn.telecomnancy.net/writeups/rpg/)                                                      |
+| [Pwn](Pwn-Formatage-Hard)                             | formatage                           | Hard            | 498        | 2               | [link](https://github.com/voydstack/FCSC2022/blob/main/pwn/formatage/README.md)                              |
+| [Side Channel](Side_Channel-Skip_Multiplication-Easy) | Never Skip Class Nor Multiplication | Easy            | 344        | 67              | [link](https://github.com/ribt/writeups/blob/master/2022/FCSC/side_channel/nscnm/README.md)                  |
+| [Side Channel](Side_Channel-Skip_Square-Medium)       | Never Skip Class Nor Squaring       | Medium          | 372        | 54              | [link](https://github.com/ribt/writeups/blob/master/2022/FCSC/side_channel/nscns/README.md)                  |
+| [Side Channel](Side_Channel-Mister_Mask-Medium)       | Myster Mask                         | Medium          | 487        | 6               |                                                                                                              |
+| [Side Channel](Side_Channel-Secure_AES-Hard)          | (Not So) Secure AES                 | Hard            | 493        | 4               |                                                                                                              |
+| [Side Channel](Side_Channel-Secure_Green_Server-Hard) | Secure Green Server                 | Medium          | 495        | 3               |                                                                                                              |
+| Web                                                   | Chatpristi 1/2                      | Easy            | 100        | 410             |                                                                                                              |
+| Web                                                   | Chatpristi 2/2                      | Medium          | 100        | 414             |                                                                                                              |
+| Web                                                   | Gare au gorille                     | Easy            | 103        | 279             | [link](https://gist.github.com/CyriaqueCCN/5674188cce49b18ebed844fabe707896)                                 |
+| Web                                                   | Login Portal                        | Easy            | 248        | 119             |                                                                                                              |
+| Web                                                   | Avatar Generator                    | Hard            | 444        | 23              | [link](https://github.com/W0rty/WU-FCSC2022/tree/main/AvatarGenerator)                                       |
+| Web                                                   | MC Players                          | Hard            | 444        | 23              | [link](https://www.woody.sh/mc-players-fcsc-2022/)                                                           |
+| Web                                                   | Cloud Password Manager              | Medium          | 444        | 23              | [link](https://github.com/W0rty/WU-FCSC2022/tree/main/CloudPasswordManager)                                  |
+| [Misc](Misc-GuessMe-Easy)                             | Guess Me                            | Easy            | 101        | 296             |                                                                                                              |
+| [Misc](Misc-Cupide-Easy)                              | Cupide                              | Easy            | 139        | 208             |                                                                                                              |
+| [Misc](Misc-X_Factor-Easy)                            | X-Factor 1/2                        | Easy            | 174        | 172             | [link](https://bluesheet.fr/article/4)                                                                       |
+| [Misc](Misc-Color_Plant-Easy)                         | Color Plant 1/2                     | Easy            | 229        | 131             |                                                                                                              |
+| [Misc](Misc-Color_Plant-Easy)                         | Color Plant 2/2                     | Medium          | 269        | 106             |                                                                                                              |
+| Misc/Discord                                          | Meme Lord                           | Easy            | 302        | 88              |                                                                                                              |
+| [Misc](Misc-GuessMeToo-Medium)                        | Guess Me Too                        | Medium          | 381        | 50              | [link](https://github.com/MathVerg/WriteUp/tree/master/FCSC2022/GuessMeToo)                                  |
