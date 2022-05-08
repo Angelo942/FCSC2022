@@ -1,0 +1,19 @@
+The source is not available, but here is an interaction:m
+
+nc challenges.france-cybersecurity-challenge.fr 2256
+|-> e [index]: Encrypt a random message and insert a fault at the provided index in the AES state before the last MixColumns.
+|-> u:       : Show this information.
+|-> q:       : Quit.
+Welcome! This message was encrypted using AES-128-ECB, you should decrypt it: b89ec9f7ded26332c5a715999486d1b614d69be055c71bbff6515272587555a92511b940fbd76c82f4bf17f75482de97ecf95218777c3ef1a2e36078e33712fe8dfcc0fa00a68b10aa351d508987fbb6
+>>> e 4
+Error detected
+>>> e 7
+Error detected
+>>> e 1
+Error detected
+>>> e 9
+Error detected
+>>> 
+
+
+The error take different time depending on the index

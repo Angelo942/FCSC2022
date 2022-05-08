@@ -1,0 +1,3 @@
+Votre ami féru de "homebrews" vous a fourni ce qu'il qualifie de "jeu de combat génial en réseau !" pour votre console "moddée", non sans un petit sourire en coin. Et vous êtes en effet assez dubitatif : son jeu ne semble pas faire grand chose ...
+
+Connaissant les facéties de votre ami, et armé de votre curiosité, vous vous lancez dans l'analyse de ce qu'il vous a fourni en espérant lui prouver que vous relevez le challenge !
